@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Weather:
+* https://github.com/xx7y7xx/weather-bkk
+  * https://github.com/xx7y7xx/weather-test
+* https://github.com/xx7y7xx/weather-th
