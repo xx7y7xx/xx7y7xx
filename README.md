@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Weather:
-* https://github.com/xx7y7xx/weather-bkk
-  * https://github.com/xx7y7xx/weather-test
-* https://github.com/xx7y7xx/weather-th
+* db-man
+  * https://github.com/db-man/db-man
+* Weather:
+  * https://github.com/xx7y7xx/weather-bkk
+    * https://github.com/xx7y7xx/weather-test
+  * https://github.com/xx7y7xx/weather-th
