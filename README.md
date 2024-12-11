@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on photo-map project.
+- 🔭 I’m currently working on db-man project.
 
 <!--
 **xx7y7xx/xx7y7xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
